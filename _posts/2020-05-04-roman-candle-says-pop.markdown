@@ -7,6 +7,8 @@ subtitle: "A collection of twangy alt-rock and ne'er-do-well balladry – and sl
 ---
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=47314268/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://romancandle.bandcamp.com/album/says-pop">SAYS POP by Roman Candle</a></iframe>
 
+## Roman Candle – _Says Pop_ (2002)
+
 After three full days into this experiment, a weekend with many hours spent hunched over my computer pondering words, I stepped back to survey my accomplishments. Among other things, I noticed those first three albums I'd written about had all been characterized as "pop" in some way; their front-page blurbs each used the word to summarize the album. I figured for the fourth I should probably cover some different territory – and then I changed my mind – nah, might as well lean into it. So my pick for today is not only yet another I'll describe as pop: it literally states its intent as such in its title.
 
 Says Pop has taken a wandering course through my life. It started somewhere in the 10th or 11th grade, when I heard their track "Something Left to Say" on my local college rock station (whattup [WICB](https://wicb.org/)!). The song checks all the boxes in the catchiness section, but it was the lyrics I think that most drew me in. The opening verse:

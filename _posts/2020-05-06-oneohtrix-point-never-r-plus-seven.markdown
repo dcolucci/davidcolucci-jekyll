@@ -7,6 +7,8 @@ subtitle: "Everywhere, nonsense abounds, but if we peer deep enough into its cha
 ---
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=169042242/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://oneohtrixpointnever.bandcamp.com/album/r-plus-seven">R Plus Seven by Oneohtrix Point Never</a></iframe>
 
+## Oneohtrix Point Never – _R Plus Seven_ (2013)
+
 Like any abstract art, abstract music can be tedious if you're not ready for it, and sometimes even if you think you are. Music especially so, because a piece takes a fixed amount of time – the length of the composition – to take in in its entirety. There's no scratching the chin, pursing the lips, mumbling "sure" and ambling on to the next piece: you've got to sit through the whole thing. The mind will wander and details are sure to be missed. Hm, I need to pick up my dry cleaning. Then the thing ends, and, blinking as you bemusedly rejoin reality, you struggle to conjure a single detail of any of what you've just supposedly experienced, and wonder if in fact you heard anything at all.
 
 R Plus Seven is no exception. Consistent rhythm is hard to come by; some stretches might even register as silence if the volume's not high enough. Everywhere, nonsense abounds. The album rejects any internal order. Yet, peering into its chaos, one sees the world outside. Hop aboard a train, wander through the dark canyon of some urban center, or lie down gently in a field beneath snow-capped peaks, and this music seems to suit the strange and elusive harmony of the world around us.

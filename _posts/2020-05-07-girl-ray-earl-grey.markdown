@@ -7,6 +7,8 @@ subtitle: "One of my go-to \"chill but upbeat\" selections of the past few years
 ---
 <iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=2999143554/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://girlray.bandcamp.com/album/earl-grey">Earl Grey by Girl Ray</a></iframe>
 
+## Girl Ray – _Earl Grey_ (2017)
+
 I must admit: as much as I love this album, its cover art sure is bad. Well, let's just call it mismatched. There's far too much metaphor connoted in a moody greyscale shot of sheep crowding up to a gate for an album of carefree pop. Maybe I'm missing something. In spite of that nitpick, it's a brilliant collection of music and it's become one of my go-to "chill but upbeat" albums of the past couple years. (Or maybe "upbeat but chill"?)
 
 What struck me first about the album when I heard it was how Seventies it was; since those initial listenings, I've developed a more nuanced appreciation, but there's definitely a warmth and brightness to it that seems to be of another era. The themes I think are, mostly, romance, in an "indie melodramatic" sense that feels neither cloying nor cliché. It's immediately endearing on all fronts – composition, word and sound – and, in this listener's opinion, brushes with pop perfection.
