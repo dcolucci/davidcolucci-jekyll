@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Palberta – Roach Goin' Down"
+date:   2020-05-23 00:00:00 -0500
+categories: jekyll update
+subtitle: "A 36-minute, 22-track assault of dadaist pop with at least twice as many musical ideas."
+---
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=4083820156/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://palbertapalberta.bandcamp.com/album/roach-goin-down-2">Roach Goin&#39; Down by Palberta</a></iframe>
+
+## Palberta – _Roach Goin' Down_ (2018)
+
+You know how when a band is warming up for a performance, or in between songs, you'll hear some random, improvised riffs and strums as the musicians tune up or keep themselves occupied? That's what _Roach Goin' Down_ kind of sounds like. The bass slides around, while the guitar croaks out off-kilter riffs and lazy chords, and the drums make sure to change up the tempo every half-minute or so. Above it all, the three bandmates share vocal duties in various permutations, sometimes harmonizing, sometimes trading lines, belting out nonsense lyrics. Thus this corpus of 22 tracks proceeds for 36 minutes.
+
+Whether that description, and the music itself, seems appealing will depend on one's own musical taste and appetite for nonsense. I expect Palberta's music will be either immediately endeared to or rebuked by listeners; it's not exactly a "grower". As is probably evident by my writing this I fall into the former cohort. Like it or hate it, nobody can say the sound isn't unique, and if given a chance its glittering moments of musical ingenuity will arise amidst the dense bricolage. No idea is too inchoate, too random, too awkwardly jagged for inclusion, and occasionally there's one that shines. Gorgeous two- or three-part harmonies will coalesce for a few bars before being abruptly dropped as the band hurtles into its next idea. The most presentable song of the lot is probably "Sound Of The Beat", with its simple head-bobbing bass riff and catchy hook (which I'll find myself singing later). Late in the album "Rich Boy" interprets Hall & Oates' "Rich Girl" in a gesture some will be sure to regard as musical sacrilege, yet which suits the spirit of the album: it takes the material of a group whose very _raison d'être_ is the pursuit of pop perfection and twists it into a dissonant, deadpan abomination.
+
+The band's live performances are every bit as enthralling – they rotate instrumental duties, with all three members each having a go at drums, bass and guitar. The trio have undeniable chemistry, musically and otherwise. After seeing them perform for the first time, I remember remarking to my companions how much I loved their weird, irreverent take on pop, but how I wished their music leaned just a _little_ bit more to the pop side. The frenetic unpredictability is fun and interesting, but in those occasional moments when they hold onto a single idea for just a little bit longer than usual, and let their sound gel into something resembling discernible structure, I see so much potential. I love _Roach Goin' Down_ and their shows are a blast, but I'm looking forward to seeing where Palberta go in the future.
