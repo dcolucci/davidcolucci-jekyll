@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "Omni – Deluxe"
+date:   2020-05-25 00:00:00 -0500
+categories: jekyll update
+subtitle: "The debut album from the Atlanta trio is a guitarist's dream of angular, catchy riffs."
+---
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=1216984239/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://omniatl.bandcamp.com/album/deluxe">Deluxe by Omni</a></iframe>
+
+## Omni – _Deluxe_ (2016)
+
+Every once in awhile an album comes along that's exactly what you were looking for at that time. _Deluxe_, debut full-length from Omni, was one of those for me, and not just because its cover art resembles the dice collection I've been missing for years. The couple years prior to 2016 had been a bit rocky, but that year saw structure and routine return to my life. Among these routines was a commute to work at predictable hours, five days a week, no more and rarely fewer. With this commute came the need for dependable music with which to soundtrack the jumble of the subway and the magazines I like to read along the way: something animated, but fairly consistent in tone and without distracting vocals. _Deluxe_ fit the bill and I was hooked right away.
+
+Its character suiting my practical preferences of commute-music is certainly not all that makes it a great album. There's always something impressive about artists who can coax such a variety of song out of a relative economy of instrumentation. In Omni's case, they forged their debut from good old guitar-drums-bass-vocals, using mostly the same production quality of each, and of the mix, across the album. The guitar is pushed forward in the mix, which I think is part of the reason the album "speaks to me" – it's a guitarist's album. This focus comes as no fault, as Philip Frobos' clever, catchy riffs give the songs their character and melodic heft, dancing around the fretboard with impeccable precision. That's not to understate the contributions of the other two band members, powering a formidable rhythm section and vocals betraying neither detachment nor investment. It all comes together in an energetic art-punk paragon.
+
+The first time I saw Omni play live, their setlist was essentially _Deluxe_ – literally matching the album's track sequencing for at least six or seven songs. Later, in an encore, the band quipped that they were running out of songs to play. They've since released another full-length, got signed to indie powerhouse Sub Pop and released another. My worst fears of what happens to bands when they "go big" and sign to a label like Sub Pop (emphasis on the quotes) did not materialize with Omni; they evolved for sure, but their particular identity and aesthetic were thankfully not washed away in the showers of cash (okay I'll stop with these jokes). However useful I found _Deluxe_ as a staple of the commute, what's infinitely more satisfying is watching a good band grow gracefully and find success in a musical career – no small feat in today's world.
