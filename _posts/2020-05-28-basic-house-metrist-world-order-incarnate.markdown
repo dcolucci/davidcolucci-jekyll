@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Basic House & Metrist – The World Is Order, Incarnate"
+date:   2020-05-28 00:00:00 -0500
+categories: jekyll update
+subtitle: "A bizarre and delightfully horrifying exploration of dark ambient and techno."
+---
+<iframe style="border: 0; width: 350px; height: 470px;" src="https://bandcamp.com/EmbeddedPlayer/album=3519896031/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/transparent=true/" seamless><a href="https://opaltapes.com/album/the-world-is-order-incarnate">The World Is Order, Incarnate by Basic House &amp; Metrist</a></iframe>
+
+## Basic House & Metrist – _The World Is Order, Incarnate_
+
+Horror's a divisive genre. Some people gobble the stuff up; others recoil at it. When done well it stirs primordial wells of emotion; when done poorly it's among the most painfully cringe-inducing art to behold. While "horror" might be primarily associated with movies it exists in other art too, and in recent years I've taken pleasure in plumbing the creepy depths of its manifestation in music. Some of the fruits of this exploration are captured in [this mix I put up on Mixcloud](https://www.mixcloud.com/david-colucci/the-horror-the-horror/) a few years ago. Record label Opal Tapes, purveyors of some of the most bizarre and brilliant musical material to be found, have tended to be a reliable source for such music, and this collaborative release _The World Is Order, Incarnate_ I found quite gripping.
+
+First of all, one look at the cover art and you know something odd is afoot. The album opens with the arhythmic "Ursa Minor". Icy percussion hits, modulating tones and ominous synths swirl, while stabs of strangulated vocalization start to make their way in. Later in the track this unsettling noise fades into ambient sounds of nature; birds chirp for a few moments until there emerges, horrifyingly, the sounds of some sort of orgy of wild beasts feasting on an unfortunate victim, probably some cloven-hoofed mammal, whose agonized squeals erupt forth. Even by my standards, hearing this is a bit of a stomach-turning experience.
+
+What could be the purpose of this disquieting statement? Well, from the track's title, I assume it's got something to do with bears, some species of which are predatory. The title of the album may be of interest here too. It's a quote from literary provocateur Henry Miller, and the gist of [the expanded passage](https://en.wikiquote.org/wiki/Henry_Miller) is that there's a natural order to the world and humans' attempts to impose their own order on it are doomed to failure. I've not read any of his material nor studied any analysis of it, so my interpretation might miss the mark. But the gruesome sounds of bestial predation perhaps invoke allegorical reference to the consequences of a world left to its "natural order."
+
+The album proceeds on with the next track "AM Grace (with R. Lancaster)" – layers of static drone cushion some spoken-word sample whose origin and significance I can't quite ascertain. The voice fades away as the drones swell and contort. The voice returns later, no more lucid. The pace picks up with the fourth track "Piethug'R'Us", a clamoring composition of pads and percussion evoking some sort of tangled, terrible machine spewing steam and broken parts. This sort of corroded machine noise carries the remainder of the album. Vaguely human sounds can be heard amidst the metallic rattling, the lonely cries of souls subsumed therein, giving us another take on the notion of order. Just as leaving the world to its natural order means Bambi gets eaten, the Byzantine machinery of an overzealous order will swallow us up just as well. The challenge in finding the balance between the two is horrifying, indeed.
