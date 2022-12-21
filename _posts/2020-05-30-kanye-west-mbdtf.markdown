@@ -70,16 +70,16 @@ While this collective force dwindles any one individual it is within the capacit
 
 Here are some ways you can take action, too:
 
-1. Donate to the NAACP Legal Defense and Educational Fund, who promote racial justice and equality through litigation and education
-1. Donate to (or volunteer with!) Tech For Campaigns, who help support Democratic candidates for political office
-1. Donate to (or volunteer with!) The Fresh Air Fund, who help provide educational opportunities for underprivileged NYC youth
-1. Donate to a community bail fund (via ActBlue), to help individuals charged with crimes avoid being stuck in jail until their trial
-1. For white men, educate yourself about race, to become a more conscientious person
-1. For white women, educate yourself about race, to become a more conscientious person
+1. [Donate to the NAACP Legal Defense and Educational Fund](https://www.naacpldf.org/), who promote racial justice and equality through litigation and education
+1. [Donate to (or volunteer with!) Tech For Campaigns](https://secure.actblue.com/donate/tfcinfrald), who help support Democratic candidates for political office
+1. [Donate to (or volunteer with!) The Fresh Air Fund](https://freshair.org/), who help provide educational opportunities for underprivileged NYC youth
+1. [Donate to a community bail fund (via ActBlue)](https://secure.actblue.com/donate/bail_funds_george_floyd), to help individuals charged with crimes avoid being stuck in jail until their trial
+1. For white men, [educate yourself about race](https://www.tatianamac.com/posts/white-guyde/), to become a more conscientious person
+1. For white women, [educate yourself about race](https://www.tatianamac.com/posts/save-the-tears), to become a more conscientious person
 1. Vote with your dollars by supporting companies that report on their diversity (and score well)
-1. Seek out and support black businesses
-1. Reconsider art and history as presented by cultural institutions
-1. Write or call your elected officials and demand change.
+1. [Seek out and support black businesses](https://www.refinery29.com/en-us/2020/06/9849096/find-black-owned-businesses-online-apps)
+1. [Reconsider art and history as presented by cultural institutions](https://www.museumnext.com/article/what-does-it-mean-to-decolonize-a-museum/)
+1. [Write or call your elected officials and demand change.](https://www.commoncause.org/find-your-representative/)
 
 Here are all the sources linked within the article or which helped inform my writing.
 
