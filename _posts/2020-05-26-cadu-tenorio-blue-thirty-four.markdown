@@ -1,5 +1,6 @@
 ---
-layout: post
+layout: blog
+slug: /2020-05-26-cadu-tenorio-blue-thirty-four
 title:  "Cadu Tenório – blue thirty-four"
 date:   2020-05-26 00:00:00 -0500
 categories: jekyll update
