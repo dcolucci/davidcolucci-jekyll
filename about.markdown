@@ -4,15 +4,8 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I'm a professional technology leader living and working in New York City. A native of Ithaca, NY and graduate of its own Cornell University, I've lived in NYC for about 15 years. My lifelong fascination with technology has enabled me to move through a handful of industries and think about how people interact with technology from different angles.
 
 
-[jekyll-organization]: https://github.com/jekyll
